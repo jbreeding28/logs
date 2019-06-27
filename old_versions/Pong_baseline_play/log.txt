@@ -1,0 +1,3 @@
+Logging to /home/jack/logs/Pong_baseline_play
+Loaded model from ~/models/Pong_baseline
+Running trained model

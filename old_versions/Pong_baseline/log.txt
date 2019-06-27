@@ -1,0 +1,1 @@
+Logging to /home/jack/logs/Pong_baseline
