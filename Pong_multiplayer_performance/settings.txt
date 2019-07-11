@@ -1,0 +1,6 @@
+Environment: PongNoFrameskip-v4
+Multiplayer: true
+Mode: 3
+Full training steps: 1000000
+Pause training interval: 100000
+Number of games every pause: 100

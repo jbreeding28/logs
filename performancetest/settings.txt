@@ -1,0 +1,6 @@
+Environment: SpaceInvadersNoFrameskip-v4
+Multiplayer: true
+Mode: 33
+Full training steps: 5000
+Pause training interval: 1000
+Number of games every pause: 10
