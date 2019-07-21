@@ -1,0 +1,11 @@
+Logging to /home/jack/logs/Action_record_test
+Loaded model 1 from ~/models/SpaceInvaders_new_multiplayer_baseline_player1
+Loaded model 2 from ~/models/SpaceInvaders_new_multiplayer_baseline_player2
+Running trained model
+-----------------------------
+| game           | 1        |
+| player 1 score | 205      |
+| player 2 score | 125      |
+| steps          | 581      |
+| total score    | 330      |
+-----------------------------
